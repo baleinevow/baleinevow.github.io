@@ -42,7 +42,7 @@ body{
 
 .features .card span{
     display: inline-block;
-    background-color: #1e40af;
+    background-color: ##396b33;
     padding: 2px 9px;
     margin-bottom: 1rem;
     font-size: 1.75rem;
@@ -68,7 +68,7 @@ body{
 }
 
 .features .card a:hover{
-    color: #1e40af;
+    color: #2e2828;
 }
 
 header{
@@ -266,7 +266,7 @@ header .info-text .scroll::before{
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #2b2f4b;
+    background-color: #0f4615;
     color: #fff;
     border: 1px solid transparent;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
